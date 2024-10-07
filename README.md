@@ -125,3 +125,15 @@ I am currently improving my skills in the following technologies. Here's my prog
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
+
+## 🐍 Contribution Snake
+
+### Default Snake:
+![snake animation](https://github.com/Tomrm96/Tomrm96/blob/output/github-snake.svg)
+
+### Dark Theme Snake:
+![snake animation dark theme](https://github.com/Tomrm96/Tomrm96/blob/output/github-snake-dark.svg)
+
+### Ocean GIF Snake:
+![snake ocean gif](https://github.com/Tomrm96/Tomrm96/blob/output/ocean.gif)
+
