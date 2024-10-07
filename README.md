@@ -121,5 +121,16 @@ I am currently improving my skills in the following technologies. Here's my prog
   </a>
 </p>
 
----
+<!--STARTS_HERE_QUOTE_README-->
 
+<!--ENDS_HERE_QUOTE_README-->
+
+
+---
+<div align='center'>
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
+</div>
