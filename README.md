@@ -97,7 +97,18 @@ I am currently improving my skills in the following technologies. Here's my prog
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tomrm96&theme=react-dark&hide_border=true&area=true" alt="GitHub Contribution Graph" />
 </p>
 
+### 
+![snake animation dark theme](https://github.com/Tomrm96/Tomrm96/blob/output/github-snake-dark.svg)
 ---
+
+
+## 📝 Recent Activity
+<!--START_SECTION:activity-->
+
+
+
+<!--END_SECTION:activity-->
+
 
 ## 📦 Featured Repositories
 
@@ -112,28 +123,4 @@ I am currently improving my skills in the following technologies. Here's my prog
 
 ---
 
-
-## 📝 Recent Activity
-<!--START_SECTION:activity-->
-
-
-
-<!--END_SECTION:activity-->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
-## 🐍 Contribution Snake
-
-### Default Snake:
-![snake animation](https://github.com/Tomrm96/Tomrm96/blob/output/github-snake.svg)
-
-### Dark Theme Snake:
-![snake animation dark theme](https://github.com/Tomrm96/Tomrm96/blob/output/github-snake-dark.svg)
-
-### Ocean GIF Snake:
-![snake ocean gif](https://github.com/Tomrm96/Tomrm96/blob/output/ocean.gif)
 
