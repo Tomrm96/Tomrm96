@@ -74,7 +74,7 @@ I’m currently learning **TypeScript**, **JavaScript**, and **Laravel** to expa
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution 
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tomrm96&theme=react-dark&hide_border=true&area=true" alt="GitHub Contribution Graph" />
@@ -112,7 +112,7 @@ I’m currently learning **TypeScript**, **JavaScript**, and **Laravel** to expa
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 
 <p align="center">
   <img src="https://github.com/Tomrm96/Tomrm96/blob/output/github-contribution-grid-snake.gif" alt="Contribution Snake" />
 </p>
