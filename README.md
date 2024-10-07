@@ -95,9 +95,12 @@ I’m currently learning **TypeScript**, **JavaScript**, and **Laravel** to expa
 
 ---
 
-## 📝 Recent Activity
+
 ## 📝 Recent Activity
 <!--START_SECTION:activity-->
+
+
+
 <!--END_SECTION:activity-->
 
 <p align="center">
