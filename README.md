@@ -102,7 +102,7 @@ I am currently improving my skills in the following technologies. Here's my prog
 ---
 
 
-## 📝 Recent Activity
+### :zap: Recent Activity
 <!--START_SECTION:activity-->
 
 
