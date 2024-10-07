@@ -9,11 +9,11 @@
 </p>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Tomrm96&style=for-the-badge" alt="Profile Views" />
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Tomrm96/JourneyEngine?style=for-the-badge">
-    <img alt="GitHub issues" src="https://img.shields.io/github/issues/Tomrm96/JourneyEngine?style=for-the-badge">
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/Tomrm96/JourneyEngine?style=for-the-badge">
-    <img alt="GitHub forks" src="https://img.shields.io/github/forks/Tomrm96/JourneyEngine?style=for-the-badge">
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Tomrm96&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="Profile Views" width="150" height="28" />
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Tomrm96/JourneyEngine?style=for-the-badge">
+<img alt="GitHub issues" src="https://img.shields.io/github/issues/Tomrm96/JourneyEngine?style=for-the-badge">
+<img alt="GitHub stars" src="https://img.shields.io/github/stars/Tomrm96/JourneyEngine?style=for-the-badge">
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/Tomrm96/JourneyEngine?style=for-the-badge">
 </p>
 
 ---
@@ -103,10 +103,8 @@ I am currently improving my skills in the following technologies. Here's my prog
 
 
 ### :zap: Recent Activity
-<!--RECENT_ACTIVITY:start-->
-
-<!--RECENT_ACTIVITY:last_update-->
-
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 ## 📦 Featured Repositories
 
 <p align="center">
