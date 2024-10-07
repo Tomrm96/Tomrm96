@@ -66,9 +66,10 @@
 ## 📊 Stats 
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Tomrm96&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomrm96&layout=compact&theme=dark&count_private=true&cache_seconds=1800" alt="Most Used Languages" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Tomrm96&show_icons=true&theme=dark&access_token=YOUR_TOKEN_HERE" alt="GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomrm96&layout=compact&theme=dark&count_private=true&cache_seconds=1800&access_token=YOUR_TOKEN_HERE" alt="Most Used Languages" width="48%" />
 </p>
+
 
 ## 📈 Contribution
 
