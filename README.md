@@ -121,5 +121,5 @@ I am currently improving my skills in the following technologies. Here's my prog
 <!--END_SECTION:activity-->
 
 <p align="center">
-  <img src="https://github.com/Tomrm96/Tomrm96/blob/output/github-contribution-grid-snake.gif" alt="Contribution Snake" />
+  <img src="https://github.com/Tomrm96/Tomrm96/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
