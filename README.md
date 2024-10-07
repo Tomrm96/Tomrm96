@@ -96,10 +96,8 @@ I’m currently learning **TypeScript**, **JavaScript**, and **Laravel** to expa
 ---
 
 ## 📝 Recent Activity
+## 📝 Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#32](https://github.com/Tomrm96/JourneyEngine/pull/32) in [Tomrm96/JourneyEngine](https://github.com/Tomrm96/JourneyEngine)
-2. ❗️ Closed issue [#30](https://github.com/Tomrm96/Movie-CRUD/issues/30) in [Tomrm96/Movie-CRUD](https://github.com/Tomrm96/Movie-CRUD)
-3. 🎉 Merged PR [#29](https://github.com/Tomrm96/JourneyEngine/pull/29) in [Tomrm96/JourneyEngine](https://github.com/Tomrm96/JourneyEngine)
 <!--END_SECTION:activity-->
 
 <p align="center">
