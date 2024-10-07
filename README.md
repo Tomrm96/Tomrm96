@@ -18,6 +18,14 @@
 
 ---
 
+## 🤝 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/tomrutter196/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:youremail@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+---
+
 ## 🌱 What I'm Learning
 I’m currently learning **TypeScript**, **JavaScript**, and **Laravel** to expand my backend development skills.
 
@@ -34,15 +42,7 @@ I am currently improving my skills in the following technologies. Here's my prog
 | 🖥️ **PHP**        | ⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛ | 30%        |
 | 🛠️ **Laravel**    | ⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛ | 30%        |
 
----
 
-## 🤝 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/tomrutter196/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:youremail@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
-
----
 
 ## 🛠️ Technologies
 
