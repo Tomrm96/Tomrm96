@@ -14,10 +14,13 @@
 
 - 🌱 I’m currently learning **TypeScript, JavaScript, Laravel.**
 
-## ☎️ Contact
-<a href="https://www.linkedin.com/in/tomrutter196/">
-    <img width="100px" alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+  ## 🤝 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/tomrutter196/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:youremail@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    
+</p>
+
 
 <hr>
 
@@ -87,3 +90,23 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tomrm96&repo=Movie-CRUD&theme=dark" alt="Movie CRUD" />
   </a>
 </p>
+
+## 🐍 
+![snake gif](https://github.com/Tomrm96/Tomrm96/blob/output/github-contribution-grid-snake.gif)
+
+
+
+## 📝 Recent Activity
+<!--START_SECTION:activity-->
+1. 💪 Opened PR [#32](https://github.com/Tomrm96/JourneyEngine/pull/32) in [Tomrm96/JourneyEngine](https://github.com/Tomrm96/JourneyEngine)
+2. ❗️ Closed issue [#30](https://github.com/Tomrm96/Movie-CRUD/issues/30) in [Tomrm96/Movie-CRUD](https://github.com/Tomrm96/Movie-CRUD)
+3. 🎉 Merged PR [#29](https://github.com/Tomrm96/JourneyEngine/pull/29) in [Tomrm96/JourneyEngine](https://github.com/Tomrm96/JourneyEngine)
+<!--END_SECTION:activity-->
+
+<p align="center">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Tomrm96/JourneyEngine?style=for-the-badge">
+    <img alt="GitHub issues" src="https://img.shields.io/github/issues/Tomrm96/JourneyEngine?style=for-the-badge">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/Tomrm96/JourneyEngine?style=for-the-badge">
+    <img alt="GitHub forks" src="https://img.shields.io/github/forks/Tomrm96/JourneyEngine?style=for-the-badge">
+</p>
+
