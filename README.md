@@ -122,7 +122,7 @@ I am currently improving my skills in the following technologies. Here's my prog
 </p>
 
 <!--STARTS_HERE_QUOTE_README-->
-
+<i>❝More than 80% of the emails sent daily are spams.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
