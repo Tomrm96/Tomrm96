@@ -104,16 +104,16 @@ I am currently improving my skills in the following technologies. Here's my prog
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🔀 Merged [PR #16](https://github.com/Wiresense/wiresense.js/pull/16) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-2. 🔎 Reviewed [PR #16](https://github.com/Wiresense/wiresense.js/pull/16) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-3. 🔀 Merged [PR #31](https://github.com/Wiresense/frontend/pull/31) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
-4. 📝 Committed to [Wiresense/frontend](https://github.com/Wiresense/frontend/commit/c3033c6dd92c6ba79069aec4be284256be551447)
-5. 🔎 Reviewed [PR #31](https://github.com/Wiresense/frontend/pull/31) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
-6. ❌ Closed [PR #59](https://github.com/TheDanniCraft/Portfolio/pull/59) in [TheDanniCraft/Portfolio](https://github.com/TheDanniCraft/Portfolio)
-7. 🔀 Merged [PR #32](https://github.com/Wiresense/frontend/pull/32) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
-8. 🔀 Merged [PR #2](https://github.com/TheDanniCraft/tag-bumper/pull/2) in [TheDanniCraft/tag-bumper](https://github.com/TheDanniCraft/tag-bumper)
-9. 🔀 Merged [PR #60](https://github.com/TheDanniCraft/Portfolio/pull/60) in [TheDanniCraft/Portfolio](https://github.com/TheDanniCraft/Portfolio)
-10. 🔔 Watching [github/relative-time-element](https://github.com/github/relative-time-element)
+1. 📝 Committed to a private repo
+2. ➕ Created a new branch `main` in a private repo
+3. 🎉 Created a new private repository
+4. 📝 Committed to [Tomrm96/Tomrm96](https://github.com/Tomrm96/Tomrm96/commit/908fdeddc265d1b4b375eabb37a68d784637bae3)
+5. 📝 Committed to [Tomrm96/Tomrm96](https://github.com/Tomrm96/Tomrm96/commit/d73ee91d7b078692c12ec54184be969674976e4b)
+6. 📝 Committed to [Tomrm96/Tomrm96](https://github.com/Tomrm96/Tomrm96/commit/ffa9bd16a12dfe6796b6b70d5001439c1c5cec1e)
+7. ⭐ Starred [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+8. 📝 Committed to [Tomrm96/Tomrm96](https://github.com/Tomrm96/Tomrm96/commit/2b868bd6257355f385130e61bb420cbb6b1bfb2b)
+9. 📝 Committed to [Tomrm96/Tomrm96](https://github.com/Tomrm96/Tomrm96/commit/0507522b41a8ee614ef8c5710941ae9a40f98766)
+10. 📝 Committed to [Tomrm96/Tomrm96](https://github.com/Tomrm96/Tomrm96/commit/78961ef96d086202c997fa4230963a7e5eba242c)
 <!--END_SECTION:activity-->
 ## 📦 Featured Repositories
 
