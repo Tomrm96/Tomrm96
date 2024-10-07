@@ -109,16 +109,16 @@ I am currently improving my skills in the following technologies. Here's my prog
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 📝 Committed to [Tomrm96/Tomrm96](https://github.com/Tomrm96/Tomrm96/commit/550859f6a09c46aab826840f487e3620f424ce71)
-2. ⭐ Starred [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
-3. 📝 Committed to a private repo
-4. ➕ Created a new branch `main` in a private repo
-5. 🎉 Created a new private repository
-6. 📝 Committed to [Tomrm96/Tomrm96](https://github.com/Tomrm96/Tomrm96/commit/908fdeddc265d1b4b375eabb37a68d784637bae3)
-7. 📝 Committed to [Tomrm96/Tomrm96](https://github.com/Tomrm96/Tomrm96/commit/d73ee91d7b078692c12ec54184be969674976e4b)
-8. 📝 Committed to [Tomrm96/Tomrm96](https://github.com/Tomrm96/Tomrm96/commit/ffa9bd16a12dfe6796b6b70d5001439c1c5cec1e)
-9. ⭐ Starred [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-10. 📝 Committed to [Tomrm96/Tomrm96](https://github.com/Tomrm96/Tomrm96/commit/2b868bd6257355f385130e61bb420cbb6b1bfb2b)
+1. 📝 Committed to [Tomrm96/Tomrm96](https://github.com/Tomrm96/Tomrm96/commit/58d25aecc16f12bb29950e62cdd14ec0a2ac8377)
+2. 📝 Committed to [Tomrm96/Tomrm96](https://github.com/Tomrm96/Tomrm96/commit/85f63a387444b17a9ef8326fa736dff06db2fe59)
+3. 📝 Committed to [Tomrm96/Tomrm96](https://github.com/Tomrm96/Tomrm96/commit/15f1e440099a667c6161c2a2e752487e8b0bb97e)
+4. 📝 Committed to [Tomrm96/Tomrm96](https://github.com/Tomrm96/Tomrm96/commit/550859f6a09c46aab826840f487e3620f424ce71)
+5. ⭐ Starred [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
+6. 📝 Committed to a private repo
+7. ➕ Created a new branch `main` in a private repo
+8. 🎉 Created a new private repository
+9. 📝 Committed to [Tomrm96/Tomrm96](https://github.com/Tomrm96/Tomrm96/commit/908fdeddc265d1b4b375eabb37a68d784637bae3)
+10. 📝 Committed to [Tomrm96/Tomrm96](https://github.com/Tomrm96/Tomrm96/commit/d73ee91d7b078692c12ec54184be969674976e4b)
 <!--END_SECTION:activity-->
 ## 📦 Featured Repositories
 
