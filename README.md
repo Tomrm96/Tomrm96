@@ -14,6 +14,7 @@
 <img alt="GitHub issues" src="https://img.shields.io/github/issues/Tomrm96/JourneyEngine?style=for-the-badge">
 <img alt="GitHub stars" src="https://img.shields.io/github/stars/Tomrm96/JourneyEngine?style=for-the-badge">
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/Tomrm96/JourneyEngine?style=for-the-badge">
+<img src="https://www.cameronsworld.net/img/content/23/frame-0/2.png" alt="Microsoft Internet Explorer" />
 </p>
 
 ---
@@ -137,5 +138,8 @@ I am currently improving my skills in the following technologies. Here's my prog
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
+  <img src="https://www.cameronsworld.net/img/content/23/frame-4/18.png" alt="Microsoft Internet Explorer" />
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+  <img src="https://www.cameronsworld.net/img/content/23/frame-6/1.gif">  
+  <img src="https://www.cameronsworld.net/img/content/26/right-side/15.gif">
 </div>
