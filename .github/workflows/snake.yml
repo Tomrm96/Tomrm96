@@ -1,0 +1,33 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  
+  workflow_dispatch:
+  push:
+    branches:
+      - master  
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: Platane/snk@v2
+        with:
+          github_user_name: Tomrm96  # 
+          outputs: svg
+      - name: Generate Snake Game from Commits
+        run: |
+          mkdir -p output
+          mv snake.svg output/snake.svg
+      - name: Commit and Push Snake Game
+        uses: EndBug/add-and-commit@v7
+        with:
+          author_name: "GitHub Actions"
+          author_email: "actions@github.com"
+          message: "Generated Snake Game"
+          add: "output/snake.svg"
+      - name: Push Changes
+        run: git push
