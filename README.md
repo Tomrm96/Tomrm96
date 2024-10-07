@@ -53,6 +53,7 @@ I am currently improving my skills in the following technologies. Here's my prog
     <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white&style=for-the-badge"></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white&style=for-the-badge"></a>
     <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white&style=for-the-badge"></a>
+    <a href="#"><img alt="MicroPython" src="https://img.shields.io/badge/MicroPython-2C3E50.svg?logo=micropython&logoColor=white&style=for-the-badge"></a>
 </p>
 
 ### 🧰 Frameworks and Libraries
