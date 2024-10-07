@@ -1,19 +1,19 @@
-name: GitHub activity feed to README
+# .github/workflows/update-activity.yml:
+
+name: Update GitHub Activity
 
 on:
   schedule:
-    - cron: '* */2 * * *' # 30 minus to probably too much for API ratelimits
+    - cron: "*/60 * * * *" # Runs every 60 minutes
+  workflow_dispatch: # Allows manual triggering
 
 jobs:
-  generate-feed:
+  update-activity:
     runs-on: ubuntu-latest
-    name: Generate feed
-
     steps:
-      - uses: actions/checkout@v2
-
-      # Pin the version to the latest stable version.
-      # If you want to live on edge, use 'master' branch.
-      - uses: RecapTime/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/checkout@v4
+      - name: Update GitHub Activity
+        uses: TheDanniCraft/activity-log@v1
+        with:
+          GITHUB_USERNAME: "thedannicraft"
+          GITHUB_TOKEN: ${{ secrets.UPDATE_ACTIVITY }} # Ensure this matches the secret name in repository settings
