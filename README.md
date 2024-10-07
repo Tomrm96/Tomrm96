@@ -9,7 +9,7 @@
 <hr>
 
 <h2>☎️ Contact</h2>
-<a href=" ">
+<a href="https://www.linkedin.com/in/tomrutter196/">
     <img width="100px" alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
