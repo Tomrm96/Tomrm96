@@ -8,18 +8,18 @@
 
 <hr>
 
-- 🌱 I’m currently learning **TypeScript, Javascript, Laravel.**
+- 🌱 I’m currently learning **TypeScript, JavaScript, Laravel.**
 
-<h2>☎️ Contact</h2>
+## ☎️ Contact
 <a href="https://www.linkedin.com/in/tomrutter196/">
     <img width="100px" alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <hr>
 
-<h2>🛠️ Technologies</h2>
+## 🛠️ Technologies
 
-<h3>👨‍💻 Programming and Markup Languages</h3>
+### 👨‍💻 Programming and Markup Languages
 
 <p>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white&style=for-the-badge"></a>
@@ -28,19 +28,19 @@
     <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white&style=for-the-badge"></a>
 </p>
 
-<h3>🧰 Frameworks and Libraries</h3>
+### 🧰 Frameworks and Libraries
 
 <p>
     <img src="https://img.shields.io/badge/Laravel-v8.x-orange?logo=laravel&logoColor=white&style=for-the-badge" alt="Laravel Badge">
 </p>
 
-<h3>🗄️ Databases</h3>
+### 🗄️ Databases
 
 <p>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white&style=for-the-badge"></a>
 </p>
 
-<h3>💻 Software and Tools</h3>
+### 💻 Software and Tools
 
 <p>
     <a href="#"><img alt="Dbeaver" src="https://custom-icon-badges.demolab.com/badge/-Dbeaver-372923?logo=dbeaver-mono&logoColor=white&style=for-the-badge"></a>
@@ -57,8 +57,17 @@
     </a>
 </p>
 
+<hr>
 
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tomrm96&show_icons=true&theme=radical&locale=en&layout=compact" alt="Tomrm96" width="45%" /> &nbsp;
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=Tomrm96&show_icons=true&theme=dark&locale=en" alt="Tomrm96" width="45%" />
+## 📊 GitHub Stats and Most Used Languages
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Tomrm96&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomrm96&layout=compact&theme=dark" alt="Most Used Languages" width="48%" />
+</p>
+
+## 👀 Visitors Count
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Tomrm96&style=for-the-badge" alt="Profile Views" />
 </p>
