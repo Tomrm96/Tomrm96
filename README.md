@@ -63,7 +63,7 @@
 
 <hr>
 
-## 📊 GitHub Stats and Most Used Languages
+## 📊 Stats 
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Tomrm96&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" />
