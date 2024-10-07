@@ -6,6 +6,10 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=800&color=5EFF09&center=true&repeat=false&width=1000&lines=Aspiring+Backend+Developer" alt="Typing SVG" />
 </a>
 
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Tomrm96&style=for-the-badge" alt="Profile Views" />
+</p>
+
 <hr>
 
 - 🌱 I’m currently learning **TypeScript, JavaScript, Laravel.**
@@ -66,8 +70,9 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomrm96&layout=compact&theme=dark" alt="Most Used Languages" width="48%" />
 </p>
 
-## 👀 Visitors Count
+## 📈 Contribution
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Tomrm96&style=for-the-badge" alt="Profile Views" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tomrm96&theme=react-dark&hide_border=true&area=true" alt="GitHub Contribution Graph" />
 </p>
+
