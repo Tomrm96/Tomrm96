@@ -10,12 +10,29 @@
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Tomrm96&style=for-the-badge" alt="Profile Views" />
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Tomrm96/JourneyEngine?style=for-the-badge">
+    <img alt="GitHub issues" src="https://img.shields.io/github/issues/Tomrm96/JourneyEngine?style=for-the-badge">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/Tomrm96/JourneyEngine?style=for-the-badge">
+    <img alt="GitHub forks" src="https://img.shields.io/github/forks/Tomrm96/JourneyEngine?style=for-the-badge">
 </p>
 
 ---
 
 ## 🌱 What I'm Learning
 I’m currently learning **TypeScript**, **JavaScript**, and **Laravel** to expand my backend development skills.
+
+## 🚀 Current Learning Progress
+
+I am currently improving my skills in the following technologies. Here's my progress so far:
+
+| Technology     | Progress | Percentage |
+| -------------- | -------- | ---------- |
+| ⚡ **TypeScript** | ⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛ | 5%         |
+| 🔥 **JavaScript** | ⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛ | 5%         |
+| 🐍 **Python**     | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ | 50%        |
+| 🗄️ **SQL**        | ⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛ | 30%        |
+| 🖥️ **PHP**        | ⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛ | 30%        |
+| 🛠️ **Laravel**    | ⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛ | 30%        |
 
 ---
 
@@ -30,7 +47,7 @@ I’m currently learning **TypeScript**, **JavaScript**, and **Laravel** to expa
 ## 🛠️ Technologies
 
 ### 👨‍💻 Programming Languages
-<p align="center">
+<p align="left">
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white&style=for-the-badge"></a>
     <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white&style=for-the-badge"></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white&style=for-the-badge"></a>
@@ -38,12 +55,12 @@ I’m currently learning **TypeScript**, **JavaScript**, and **Laravel** to expa
 </p>
 
 ### 🧰 Frameworks and Libraries
-<p align="center">
+<p align="left">
     <img src="https://img.shields.io/badge/Laravel-v8.x-orange?logo=laravel&logoColor=white&style=for-the-badge" alt="Laravel Badge">
 </p>
 
 ### 🗄️ Databases
-<p align="center">
+<p align="left">
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white&style=for-the-badge"></a>
 </p>
 
@@ -103,16 +120,6 @@ I’m currently learning **TypeScript**, **JavaScript**, and **Laravel** to expa
 
 <!--END_SECTION:activity-->
 
-<p align="center">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Tomrm96/JourneyEngine?style=for-the-badge">
-    <img alt="GitHub issues" src="https://img.shields.io/github/issues/Tomrm96/JourneyEngine?style=for-the-badge">
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/Tomrm96/JourneyEngine?style=for-the-badge">
-    <img alt="GitHub forks" src="https://img.shields.io/github/forks/Tomrm96/JourneyEngine?style=for-the-badge">
-</p>
-
----
-
-## 🐍 
 <p align="center">
   <img src="https://github.com/Tomrm96/Tomrm96/blob/output/github-contribution-grid-snake.gif" alt="Contribution Snake" />
 </p>
