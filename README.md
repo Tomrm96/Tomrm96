@@ -1,34 +1,36 @@
-<a href="https://git.io/typing-svg">
+<p align="center">
+  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=800&color=FF0000&center=true&repeat=true&width=1000&lines=Tom+Rutter" alt="Typing SVG" />
-</a>
-<br>
-<a href="https://git.io/typing-svg">
+  </a>
+  <br>
+  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=800&color=5EFF09&center=true&repeat=true&width=1000&lines=Aspiring+Backend+Developer" alt="Typing SVG" />
-</a>
+  </a>
+</p>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Tomrm96&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<hr>
+---
 
-- 🌱 I’m currently learning **TypeScript, JavaScript, Laravel.**
+## 🌱 What I'm Learning
+I’m currently learning **TypeScript**, **JavaScript**, and **Laravel** to expand my backend development skills.
 
-  ## 🤝 Connect With Me
-<p align="left">
+---
+
+## 🤝 Connect With Me
+<p align="center">
   <a href="https://www.linkedin.com/in/tomrutter196/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:youremail@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    
 </p>
 
-
-<hr>
+---
 
 ## 🛠️ Technologies
 
-### 👨‍💻 Programming and Markup Languages
-
-<p>
+### 👨‍💻 Programming Languages
+<p align="center">
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white&style=for-the-badge"></a>
     <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white&style=for-the-badge"></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white&style=for-the-badge"></a>
@@ -36,20 +38,17 @@
 </p>
 
 ### 🧰 Frameworks and Libraries
-
-<p>
+<p align="center">
     <img src="https://img.shields.io/badge/Laravel-v8.x-orange?logo=laravel&logoColor=white&style=for-the-badge" alt="Laravel Badge">
 </p>
 
 ### 🗄️ Databases
-
-<p>
+<p align="center">
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white&style=for-the-badge"></a>
 </p>
 
 ### 💻 Software and Tools
-
-<p>
+<p align="center">
     <a href="#"><img alt="Dbeaver" src="https://custom-icon-badges.demolab.com/badge/-Dbeaver-372923?logo=dbeaver-mono&logoColor=white&style=for-the-badge"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white&style=for-the-badge"></a>
     <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white&style=for-the-badge"></a>
@@ -64,21 +63,24 @@
     </a>
 </p>
 
-<hr>
+---
 
-## 📊 Stats 
+## 📊 Stats
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Tomrm96&show_icons=true&theme=dark&access_token=YOUR_TOKEN_HERE" alt="GitHub Stats" width="48%" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomrm96&layout=compact&theme=dark&count_private=true&cache_seconds=1800&access_token=YOUR_TOKEN_HERE" alt="Most Used Languages" width="48%" />
 </p>
 
+---
 
-## 📈 Contribution
+## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tomrm96&theme=react-dark&hide_border=true&area=true" alt="GitHub Contribution Graph" />
 </p>
+
+---
 
 ## 📦 Featured Repositories
 
@@ -91,10 +93,7 @@
   </a>
 </p>
 
-## 🐍 
-![snake gif](https://github.com/Tomrm96/Tomrm96/blob/output/github-contribution-grid-snake.gif)
-
-
+---
 
 ## 📝 Recent Activity
 <!--START_SECTION:activity-->
@@ -110,3 +109,9 @@
     <img alt="GitHub forks" src="https://img.shields.io/github/forks/Tomrm96/JourneyEngine?style=for-the-badge">
 </p>
 
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/Tomrm96/Tomrm96/blob/output/github-contribution-grid-snake.gif" alt="Contribution Snake" />
+</p>
