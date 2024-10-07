@@ -1,3 +1,11 @@
+
+<style>
+  .js-yearly-contributions {
+    display: none;
+  }
+</style>
+
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=800&color=FF0000&center=true&repeat=true&width=1000&lines=Tom+Rutter" alt="Typing SVG" />
@@ -122,5 +130,4 @@ I am currently improving my skills in the following technologies. Here's my prog
 </p>
 
 ---
-
 
