@@ -67,7 +67,7 @@
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Tomrm96&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomrm96&layout=compact&theme=dark" alt="Most Used Languages" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomrm96&layout=compact&theme=dark&count_private=true&cache_seconds=1800" alt="Most Used Languages" width="48%" />
 </p>
 
 ## 📈 Contribution
