@@ -109,16 +109,16 @@ I am currently improving my skills in the following technologies. Here's my prog
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 📝 Committed to [Tomrm96/Tomrm96](https://github.com/Tomrm96/Tomrm96/commit/58d25aecc16f12bb29950e62cdd14ec0a2ac8377)
-2. 📝 Committed to [Tomrm96/Tomrm96](https://github.com/Tomrm96/Tomrm96/commit/85f63a387444b17a9ef8326fa736dff06db2fe59)
-3. 📝 Committed to [Tomrm96/Tomrm96](https://github.com/Tomrm96/Tomrm96/commit/15f1e440099a667c6161c2a2e752487e8b0bb97e)
-4. 📝 Committed to [Tomrm96/Tomrm96](https://github.com/Tomrm96/Tomrm96/commit/550859f6a09c46aab826840f487e3620f424ce71)
-5. ⭐ Starred [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
-6. 📝 Committed to a private repo
-7. ➕ Created a new branch `main` in a private repo
-8. 🎉 Created a new private repository
-9. 📝 Committed to [Tomrm96/Tomrm96](https://github.com/Tomrm96/Tomrm96/commit/908fdeddc265d1b4b375eabb37a68d784637bae3)
-10. 📝 Committed to [Tomrm96/Tomrm96](https://github.com/Tomrm96/Tomrm96/commit/d73ee91d7b078692c12ec54184be969674976e4b)
+1. 📝 Committed to [Tomrm96/Tomrm96](https://github.com/Tomrm96/Tomrm96/commit/534b1abca4269bbbd85833d2fdde8add6aa286a0)
+2. 📝 Committed to [Tomrm96/Tomrm96](https://github.com/Tomrm96/Tomrm96/commit/cd0acfc60e5df2fcb4cb932efebf44034ed35d4e)
+3. 📝 Committed to [Tomrm96/Tomrm96](https://github.com/Tomrm96/Tomrm96/commit/ebe5e84563814cfc69f2681b9cfc58a19ce3e0fe)
+4. 🗑️ Deleted a branch `Tomrm96-patch-1` in [Tomrm96/Tomrm96](https://github.com/Tomrm96/Tomrm96)
+5. 📝 Committed to [Tomrm96/Tomrm96](https://github.com/Tomrm96/Tomrm96/commit/3d4da0e893336866ad409859bf622802bdb27f55)
+6. 🔀 Merged [PR #1](https://github.com/Tomrm96/Tomrm96/pull/1) in [Tomrm96/Tomrm96](https://github.com/Tomrm96/Tomrm96)
+7. 📥 Opened [PR #1](https://github.com/Tomrm96/Tomrm96/pull/1) in [Tomrm96/Tomrm96](https://github.com/Tomrm96/Tomrm96)
+8. ➕ Created a new branch [`Tomrm96-patch-1`](https://github.com/Tomrm96/Tomrm96/tree/Tomrm96-patch-1) in [Tomrm96/Tomrm96](https://github.com/Tomrm96/Tomrm96)
+9. 📝 Committed to [Tomrm96/Tomrm96](https://github.com/Tomrm96/Tomrm96/commit/c6eacbdb51c4ca83692195cbb2e8dcab50a3f3e6)
+10. 📝 Committed to [Tomrm96/Tomrm96](https://github.com/Tomrm96/Tomrm96/commit/7dfc8e339c0ab31f132a582ffbc60f17ce33d8ca)
 <!--END_SECTION:activity-->
 ## 📦 Featured Repositories
 
