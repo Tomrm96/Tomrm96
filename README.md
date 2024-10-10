@@ -132,7 +132,7 @@ I am currently improving my skills in the following technologies. Here's my prog
 </p>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“BASIC is to computer programming as QWERTY is to typing.”— Seymour Papert   ❞</i>
+<i>❝The first webcam was used at Cambridge University. Its purpose was to monitor a coffee maker so they didn’t waste trips to an empty pot.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
