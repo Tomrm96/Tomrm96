@@ -109,16 +109,16 @@ I am currently improving my skills in the following technologies. Here's my prog
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 📝 Committed to [Tomrm96/100-Days-Of-Code](https://github.com/Tomrm96/100-Days-Of-Code/commit/50f91b53821f2c360b1e2cab7425f6a90abb3991)
-2. 📝 Committed to [Tomrm96/Tomrm96](https://github.com/Tomrm96/Tomrm96/commit/534b1abca4269bbbd85833d2fdde8add6aa286a0)
-3. 📝 Committed to [Tomrm96/Tomrm96](https://github.com/Tomrm96/Tomrm96/commit/cd0acfc60e5df2fcb4cb932efebf44034ed35d4e)
-4. 📝 Committed to [Tomrm96/Tomrm96](https://github.com/Tomrm96/Tomrm96/commit/ebe5e84563814cfc69f2681b9cfc58a19ce3e0fe)
-5. 🗑️ Deleted a branch `Tomrm96-patch-1` in [Tomrm96/Tomrm96](https://github.com/Tomrm96/Tomrm96)
-6. 📝 Committed to [Tomrm96/Tomrm96](https://github.com/Tomrm96/Tomrm96/commit/3d4da0e893336866ad409859bf622802bdb27f55)
-7. 🔀 Merged [PR #1](https://github.com/Tomrm96/Tomrm96/pull/1) in [Tomrm96/Tomrm96](https://github.com/Tomrm96/Tomrm96)
-8. 📥 Opened [PR #1](https://github.com/Tomrm96/Tomrm96/pull/1) in [Tomrm96/Tomrm96](https://github.com/Tomrm96/Tomrm96)
-9. ➕ Created a new branch [`Tomrm96-patch-1`](https://github.com/Tomrm96/Tomrm96/tree/Tomrm96-patch-1) in [Tomrm96/Tomrm96](https://github.com/Tomrm96/Tomrm96)
-10. 📝 Committed to [Tomrm96/Tomrm96](https://github.com/Tomrm96/Tomrm96/commit/c6eacbdb51c4ca83692195cbb2e8dcab50a3f3e6)
+1. 📝 Committed to [Tomrm96/100-Days-Of-Code](https://github.com/Tomrm96/100-Days-Of-Code/commit/18d4731e92bfaecebfe2e3151f8f87a28ecbaee4)
+2. 📝 Committed to [Tomrm96/100-Days-Of-Code](https://github.com/Tomrm96/100-Days-Of-Code/commit/50f91b53821f2c360b1e2cab7425f6a90abb3991)
+3. 📝 Committed to [Tomrm96/Tomrm96](https://github.com/Tomrm96/Tomrm96/commit/534b1abca4269bbbd85833d2fdde8add6aa286a0)
+4. 📝 Committed to [Tomrm96/Tomrm96](https://github.com/Tomrm96/Tomrm96/commit/cd0acfc60e5df2fcb4cb932efebf44034ed35d4e)
+5. 📝 Committed to [Tomrm96/Tomrm96](https://github.com/Tomrm96/Tomrm96/commit/ebe5e84563814cfc69f2681b9cfc58a19ce3e0fe)
+6. 🗑️ Deleted a branch `Tomrm96-patch-1` in [Tomrm96/Tomrm96](https://github.com/Tomrm96/Tomrm96)
+7. 📝 Committed to [Tomrm96/Tomrm96](https://github.com/Tomrm96/Tomrm96/commit/3d4da0e893336866ad409859bf622802bdb27f55)
+8. 🔀 Merged [PR #1](https://github.com/Tomrm96/Tomrm96/pull/1) in [Tomrm96/Tomrm96](https://github.com/Tomrm96/Tomrm96)
+9. 📥 Opened [PR #1](https://github.com/Tomrm96/Tomrm96/pull/1) in [Tomrm96/Tomrm96](https://github.com/Tomrm96/Tomrm96)
+10. ➕ Created a new branch [`Tomrm96-patch-1`](https://github.com/Tomrm96/Tomrm96/tree/Tomrm96-patch-1) in [Tomrm96/Tomrm96](https://github.com/Tomrm96/Tomrm96)
 <!--END_SECTION:activity-->
 ## 📦 Featured Repositories
 
