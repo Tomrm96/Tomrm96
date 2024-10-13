@@ -109,16 +109,16 @@ I am currently improving my skills in the following technologies. Here's my prog
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 📝 Committed to [Tomrm96/100-Days-Of-Code](https://github.com/Tomrm96/100-Days-Of-Code/commit/6b2542977d245c6c4cc88829320841ce917eb0fd)
-2. 📝 Committed to [Tomrm96/100-Days-Of-Code](https://github.com/Tomrm96/100-Days-Of-Code/commit/be974df76c602025d9eb552e6220243f58b2deb7)
-3. 📝 Committed to [Tomrm96/100-Days-Of-Code](https://github.com/Tomrm96/100-Days-Of-Code/commit/44d203edd39933f680feb6ab860799c7cf952cbb)
-4. 📝 Committed to [Tomrm96/100-Days-Of-Code](https://github.com/Tomrm96/100-Days-Of-Code/commit/026c8be6e84fb1e9f4bd25fdd78e70566e98acb4)
-5. ➕ Created a new branch [`main`](https://github.com/Tomrm96/Pico/tree/main) in [Tomrm96/Pico](https://github.com/Tomrm96/Pico)
-6. 🎉 Created a new repository [Tomrm96/Pico](https://github.com/Tomrm96/Pico)
-7. 📝 Committed to [Tomrm96/100-Days-Of-Code](https://github.com/Tomrm96/100-Days-Of-Code/commit/533bac331e9ff9b337ae4b81bb59e8f7eb8de8c0)
-8. 📝 Committed to [Tomrm96/100-Days-Of-Code](https://github.com/Tomrm96/100-Days-Of-Code/commit/b2fcdb25ed433a6a522d9aaf4d841c5742638769)
-9. 📝 Committed to [Tomrm96/100-Days-Of-Code](https://github.com/Tomrm96/100-Days-Of-Code/commit/d8ee9a235c7998b0b2f396913d43fa39c30f4106)
-10. 📝 Committed to [Tomrm96/100-Days-Of-Code](https://github.com/Tomrm96/100-Days-Of-Code/commit/18d4731e92bfaecebfe2e3151f8f87a28ecbaee4)
+1. 📝 Committed to [Tomrm96/100-Days-Of-Code](https://github.com/Tomrm96/100-Days-Of-Code/commit/198c428d81d0e5b854dae8b94fa4b0dd38fb57e7)
+2. 📝 Committed to [Tomrm96/100-Days-Of-Code](https://github.com/Tomrm96/100-Days-Of-Code/commit/6b2542977d245c6c4cc88829320841ce917eb0fd)
+3. 📝 Committed to [Tomrm96/100-Days-Of-Code](https://github.com/Tomrm96/100-Days-Of-Code/commit/be974df76c602025d9eb552e6220243f58b2deb7)
+4. 📝 Committed to [Tomrm96/100-Days-Of-Code](https://github.com/Tomrm96/100-Days-Of-Code/commit/44d203edd39933f680feb6ab860799c7cf952cbb)
+5. 📝 Committed to [Tomrm96/100-Days-Of-Code](https://github.com/Tomrm96/100-Days-Of-Code/commit/026c8be6e84fb1e9f4bd25fdd78e70566e98acb4)
+6. ➕ Created a new branch [`main`](https://github.com/Tomrm96/Pico/tree/main) in [Tomrm96/Pico](https://github.com/Tomrm96/Pico)
+7. 🎉 Created a new repository [Tomrm96/Pico](https://github.com/Tomrm96/Pico)
+8. 📝 Committed to [Tomrm96/100-Days-Of-Code](https://github.com/Tomrm96/100-Days-Of-Code/commit/533bac331e9ff9b337ae4b81bb59e8f7eb8de8c0)
+9. 📝 Committed to [Tomrm96/100-Days-Of-Code](https://github.com/Tomrm96/100-Days-Of-Code/commit/b2fcdb25ed433a6a522d9aaf4d841c5742638769)
+10. 📝 Committed to [Tomrm96/100-Days-Of-Code](https://github.com/Tomrm96/100-Days-Of-Code/commit/d8ee9a235c7998b0b2f396913d43fa39c30f4106)
 <!--END_SECTION:activity-->
 ## 📦 Featured Repositories
 
