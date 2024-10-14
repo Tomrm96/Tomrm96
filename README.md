@@ -109,16 +109,16 @@ I am currently improving my skills in the following technologies. Here's my prog
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 📝 Committed to [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder/commit/9aea3b1f198b6173bf632cccb69c266fed0a3c00)
-2. 📝 Committed to [Tomrm96/100-Days-Of-Code](https://github.com/Tomrm96/100-Days-Of-Code/commit/9a83ef4bee8e8f36993031c69a7a49159cbc051f)
-3. 📝 Committed to [Tomrm96/100-Days-Of-Code](https://github.com/Tomrm96/100-Days-Of-Code/commit/adab6b5c58cd4c39b5a1b18f38a861468f038f58)
-4. 📝 Committed to [Tomrm96/100-Days-Of-Code](https://github.com/Tomrm96/100-Days-Of-Code/commit/198c428d81d0e5b854dae8b94fa4b0dd38fb57e7)
-5. 📝 Committed to [Tomrm96/100-Days-Of-Code](https://github.com/Tomrm96/100-Days-Of-Code/commit/6b2542977d245c6c4cc88829320841ce917eb0fd)
-6. 📝 Committed to [Tomrm96/100-Days-Of-Code](https://github.com/Tomrm96/100-Days-Of-Code/commit/be974df76c602025d9eb552e6220243f58b2deb7)
-7. 📝 Committed to [Tomrm96/100-Days-Of-Code](https://github.com/Tomrm96/100-Days-Of-Code/commit/44d203edd39933f680feb6ab860799c7cf952cbb)
-8. 📝 Committed to [Tomrm96/100-Days-Of-Code](https://github.com/Tomrm96/100-Days-Of-Code/commit/026c8be6e84fb1e9f4bd25fdd78e70566e98acb4)
-9. ➕ Created a new branch [`main`](https://github.com/Tomrm96/Pico/tree/main) in [Tomrm96/Pico](https://github.com/Tomrm96/Pico)
-10. 🎉 Created a new repository [Tomrm96/Pico](https://github.com/Tomrm96/Pico)
+1. 🗑️ Deleted a branch `Feature/LED-Blink-Get-Response-Test` in [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder)
+2. 📝 Committed to [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder/commit/8a1129a5465bcae4a8446416fd273ecd49623a61)
+3. 📝 Committed to [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder/commit/97257ac0fc74c07db852d08d7adddba733e5c0f7)
+4. ➕ Created a new branch [`Feature/LED-Blink-Get-Response-Test`](https://github.com/Tomrm96/Feeder/tree/Feature/LED-Blink-Get-Response-Test) in [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder)
+5. 📝 Committed to [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder/commit/9aea3b1f198b6173bf632cccb69c266fed0a3c00)
+6. 📝 Committed to [Tomrm96/100-Days-Of-Code](https://github.com/Tomrm96/100-Days-Of-Code/commit/9a83ef4bee8e8f36993031c69a7a49159cbc051f)
+7. 📝 Committed to [Tomrm96/100-Days-Of-Code](https://github.com/Tomrm96/100-Days-Of-Code/commit/adab6b5c58cd4c39b5a1b18f38a861468f038f58)
+8. 📝 Committed to [Tomrm96/100-Days-Of-Code](https://github.com/Tomrm96/100-Days-Of-Code/commit/198c428d81d0e5b854dae8b94fa4b0dd38fb57e7)
+9. 📝 Committed to [Tomrm96/100-Days-Of-Code](https://github.com/Tomrm96/100-Days-Of-Code/commit/6b2542977d245c6c4cc88829320841ce917eb0fd)
+10. 📝 Committed to [Tomrm96/100-Days-Of-Code](https://github.com/Tomrm96/100-Days-Of-Code/commit/be974df76c602025d9eb552e6220243f58b2deb7)
 <!--END_SECTION:activity-->
 ## 📦 Featured Repositories
 
