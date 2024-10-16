@@ -109,16 +109,16 @@ I am currently improving my skills in the following technologies. Here's my prog
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Created a new repository [Tomrm96/FEEDER-WEB-APP](https://github.com/Tomrm96/FEEDER-WEB-APP)
-2. ➕ Created a new branch [`main`](https://github.com/Tomrm96/FEEDER-WEB-APP/tree/main) in [Tomrm96/FEEDER-WEB-APP](https://github.com/Tomrm96/FEEDER-WEB-APP)
-3. 🗑️ Deleted a branch `Feature/Add-Servo-Test` in [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder)
-4. 📝 Committed to [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder/commit/1caea6999c49c6a9dc4423c4a9b91141b52fe1e8)
-5. 🔀 Merged [PR #1](https://github.com/Tomrm96/Feeder/pull/1) in [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder)
-6. 📥 Opened [PR #1](https://github.com/Tomrm96/Feeder/pull/1) in [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder)
-7. ➕ Created a new branch [`Feature/Add-Servo-Test`](https://github.com/Tomrm96/Feeder/tree/Feature/Add-Servo-Test) in [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder)
-8. 🗑️ Deleted a branch `Feature/LED-Blink-Get-Response-Test` in [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder)
-9. 📝 Committed to [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder/commit/8a1129a5465bcae4a8446416fd273ecd49623a61)
-10. 📝 Committed to [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder/commit/97257ac0fc74c07db852d08d7adddba733e5c0f7)
+1. ➕ Created a new branch [`Initial-Commit`](https://github.com/Tomrm96/FEEDER-WEB-APP/tree/Initial-Commit) in [Tomrm96/FEEDER-WEB-APP](https://github.com/Tomrm96/FEEDER-WEB-APP)
+2. 🎉 Created a new repository [Tomrm96/FEEDER-WEB-APP](https://github.com/Tomrm96/FEEDER-WEB-APP)
+3. ➕ Created a new branch [`main`](https://github.com/Tomrm96/FEEDER-WEB-APP/tree/main) in [Tomrm96/FEEDER-WEB-APP](https://github.com/Tomrm96/FEEDER-WEB-APP)
+4. 🗑️ Deleted a branch `Feature/Add-Servo-Test` in [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder)
+5. 📝 Committed to [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder/commit/1caea6999c49c6a9dc4423c4a9b91141b52fe1e8)
+6. 🔀 Merged [PR #1](https://github.com/Tomrm96/Feeder/pull/1) in [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder)
+7. 📥 Opened [PR #1](https://github.com/Tomrm96/Feeder/pull/1) in [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder)
+8. ➕ Created a new branch [`Feature/Add-Servo-Test`](https://github.com/Tomrm96/Feeder/tree/Feature/Add-Servo-Test) in [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder)
+9. 🗑️ Deleted a branch `Feature/LED-Blink-Get-Response-Test` in [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder)
+10. 📝 Committed to [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder/commit/8a1129a5465bcae4a8446416fd273ecd49623a61)
 <!--END_SECTION:activity-->
 ## 📦 Featured Repositories
 
