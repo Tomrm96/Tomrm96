@@ -109,16 +109,16 @@ I am currently improving my skills in the following technologies. Here's my prog
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ➕ Created a new branch [`Initial-Commit`](https://github.com/Tomrm96/FEEDER-WEB-APP/tree/Initial-Commit) in [Tomrm96/FEEDER-WEB-APP](https://github.com/Tomrm96/FEEDER-WEB-APP)
-2. 🎉 Created a new repository [Tomrm96/FEEDER-WEB-APP](https://github.com/Tomrm96/FEEDER-WEB-APP)
-3. ➕ Created a new branch [`main`](https://github.com/Tomrm96/FEEDER-WEB-APP/tree/main) in [Tomrm96/FEEDER-WEB-APP](https://github.com/Tomrm96/FEEDER-WEB-APP)
-4. 🗑️ Deleted a branch `Feature/Add-Servo-Test` in [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder)
-5. 📝 Committed to [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder/commit/1caea6999c49c6a9dc4423c4a9b91141b52fe1e8)
-6. 🔀 Merged [PR #1](https://github.com/Tomrm96/Feeder/pull/1) in [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder)
-7. 📥 Opened [PR #1](https://github.com/Tomrm96/Feeder/pull/1) in [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder)
-8. ➕ Created a new branch [`Feature/Add-Servo-Test`](https://github.com/Tomrm96/Feeder/tree/Feature/Add-Servo-Test) in [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder)
-9. 🗑️ Deleted a branch `Feature/LED-Blink-Get-Response-Test` in [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder)
-10. 📝 Committed to [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder/commit/8a1129a5465bcae4a8446416fd273ecd49623a61)
+1. ➕ Created a new branch [`master`](https://github.com/Tomrm96/laravel-api/tree/master) in [Tomrm96/laravel-api](https://github.com/Tomrm96/laravel-api)
+2. 🎉 Created a new repository [Tomrm96/laravel-api](https://github.com/Tomrm96/laravel-api)
+3. ➕ Created a new branch [`Initial-Commit`](https://github.com/Tomrm96/FEEDER-WEB-APP/tree/Initial-Commit) in [Tomrm96/FEEDER-WEB-APP](https://github.com/Tomrm96/FEEDER-WEB-APP)
+4. 🎉 Created a new repository [Tomrm96/FEEDER-WEB-APP](https://github.com/Tomrm96/FEEDER-WEB-APP)
+5. ➕ Created a new branch [`main`](https://github.com/Tomrm96/FEEDER-WEB-APP/tree/main) in [Tomrm96/FEEDER-WEB-APP](https://github.com/Tomrm96/FEEDER-WEB-APP)
+6. 🗑️ Deleted a branch `Feature/Add-Servo-Test` in [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder)
+7. 📝 Committed to [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder/commit/1caea6999c49c6a9dc4423c4a9b91141b52fe1e8)
+8. 🔀 Merged [PR #1](https://github.com/Tomrm96/Feeder/pull/1) in [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder)
+9. 📥 Opened [PR #1](https://github.com/Tomrm96/Feeder/pull/1) in [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder)
+10. ➕ Created a new branch [`Feature/Add-Servo-Test`](https://github.com/Tomrm96/Feeder/tree/Feature/Add-Servo-Test) in [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder)
 <!--END_SECTION:activity-->
 ## 📦 Featured Repositories
 
