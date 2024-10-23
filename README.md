@@ -4,7 +4,7 @@
   </a>
   <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=800&color=5EFF09&center=true&repeat=true&width=1000&lines=Aspiring+Backend+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=800&color=5EFF09&center=true&repeat=true&width=1000&lines=Aspiring+Developer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -37,8 +37,8 @@ I am currently improving my skills in the following technologies. Here's my prog
 | Technology     | Progress | Percentage |
 | -------------- | -------- | ---------- |
 | ⚡ **TypeScript** | ⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛ | 5%         |
-| 🔥 **JavaScript** | ⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛ | 5%         |
-| 🐍 **Python**     | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ | 50%        |
+| 🔥 **JavaScript** | ⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛ | 30%         |
+| 🐍 **Python**     | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ | 60%        |
 | 🗄️ **SQL**        | ⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛ | 30%        |
 | 🖥️ **PHP**        | ⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛ | 30%        |
 | 🛠️ **Laravel**    | ⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛ | 30%        |
