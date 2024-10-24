@@ -109,16 +109,16 @@ I am currently improving my skills in the following technologies. Here's my prog
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ⭐ Starred [OverTheWireOrg/OverTheWire-website](https://github.com/OverTheWireOrg/OverTheWire-website)
-2. ⭐ Starred [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
-3. 📝 Committed to [Tomrm96/laravel-api](https://github.com/Tomrm96/laravel-api/commit/8cf44b806370ad72ddbde3db6fa2a41e97663980)
-4. ⭐ Starred [Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD)
-5. 📝 Committed to [Tomrm96/laravel-api](https://github.com/Tomrm96/laravel-api/commit/85d5a77b9c6af0d2b99c84276da3ca2dd1e40fa2)
-6. ➕ Created a new branch [`master`](https://github.com/Tomrm96/laravel-api/tree/master) in [Tomrm96/laravel-api](https://github.com/Tomrm96/laravel-api)
-7. 🎉 Created a new repository [Tomrm96/laravel-api](https://github.com/Tomrm96/laravel-api)
-8. ➕ Created a new branch [`Initial-Commit`](https://github.com/Tomrm96/FEEDER-WEB-APP/tree/Initial-Commit) in [Tomrm96/FEEDER-WEB-APP](https://github.com/Tomrm96/FEEDER-WEB-APP)
-9. 🎉 Created a new repository [Tomrm96/FEEDER-WEB-APP](https://github.com/Tomrm96/FEEDER-WEB-APP)
-10. ➕ Created a new branch [`main`](https://github.com/Tomrm96/FEEDER-WEB-APP/tree/main) in [Tomrm96/FEEDER-WEB-APP](https://github.com/Tomrm96/FEEDER-WEB-APP)
+1. 🗑️ Deleted a branch `Feature/Add-Servo-Test` in [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder)
+2. 📝 Committed to [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder/commit/bb24c0e02b0a72d2afceae19d417ce7b418b42fa)
+3. 🔀 Merged [PR #2](https://github.com/Tomrm96/Feeder/pull/2) in [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder)
+4. 📥 Opened [PR #2](https://github.com/Tomrm96/Feeder/pull/2) in [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder)
+5. ➕ Created a new branch [`Feature/Add-Servo-Test`](https://github.com/Tomrm96/Feeder/tree/Feature/Add-Servo-Test) in [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder)
+6. ⭐ Starred [OverTheWireOrg/OverTheWire-website](https://github.com/OverTheWireOrg/OverTheWire-website)
+7. ⭐ Starred [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+8. 📝 Committed to [Tomrm96/laravel-api](https://github.com/Tomrm96/laravel-api/commit/8cf44b806370ad72ddbde3db6fa2a41e97663980)
+9. ⭐ Starred [Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD)
+10. 📝 Committed to [Tomrm96/laravel-api](https://github.com/Tomrm96/laravel-api/commit/85d5a77b9c6af0d2b99c84276da3ca2dd1e40fa2)
 <!--END_SECTION:activity-->
 ## 📦 Featured Repositories
 
