@@ -109,16 +109,16 @@ I am currently improving my skills in the following technologies. Here's my prog
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ➕ Created a new branch [`main`](https://github.com/Tomrm96/FeederWebApp/tree/main) in [Tomrm96/FeederWebApp](https://github.com/Tomrm96/FeederWebApp)
-2. 🎉 Created a new repository [Tomrm96/FeederWebApp](https://github.com/Tomrm96/FeederWebApp)
+1. 📝 Committed to [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder/commit/7e12b05349f7287fe057227f1ae28cb5d5d02171)
+2. 📝 Committed to [Tomrm96/FeederWebApp](https://github.com/Tomrm96/FeederWebApp/commit/97c22a96818b37903ac4b8eaa56542a0e5a433a1)
 3. 🗑️ Deleted a branch `Feature/Add-Servo-Test` in [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder)
-4. 📝 Committed to [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder/commit/bb24c0e02b0a72d2afceae19d417ce7b418b42fa)
-5. 🔀 Merged [PR #2](https://github.com/Tomrm96/Feeder/pull/2) in [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder)
-6. 📥 Opened [PR #2](https://github.com/Tomrm96/Feeder/pull/2) in [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder)
-7. ➕ Created a new branch [`Feature/Add-Servo-Test`](https://github.com/Tomrm96/Feeder/tree/Feature/Add-Servo-Test) in [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder)
-8. ⭐ Starred [OverTheWireOrg/OverTheWire-website](https://github.com/OverTheWireOrg/OverTheWire-website)
-9. ⭐ Starred [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
-10. 📝 Committed to [Tomrm96/laravel-api](https://github.com/Tomrm96/laravel-api/commit/8cf44b806370ad72ddbde3db6fa2a41e97663980)
+4. ➕ Created a new branch [`Feature/Add-Servo-Test`](https://github.com/Tomrm96/Feeder/tree/Feature/Add-Servo-Test) in [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder)
+5. 🗑️ Deleted a branch `Feature/Add-Servo-Test` in [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder)
+6. 📝 Committed to [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder/commit/da9004d8a7c939154a073a655291444c3f22549d)
+7. 🔀 Merged [PR #3](https://github.com/Tomrm96/Feeder/pull/3) in [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder)
+8. 📥 Opened [PR #3](https://github.com/Tomrm96/Feeder/pull/3) in [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder)
+9. ➕ Created a new branch [`Feature/Add-Servo-Test`](https://github.com/Tomrm96/Feeder/tree/Feature/Add-Servo-Test) in [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder)
+10. ➕ Created a new branch [`main`](https://github.com/Tomrm96/FeederWebApp/tree/main) in [Tomrm96/FeederWebApp](https://github.com/Tomrm96/FeederWebApp)
 <!--END_SECTION:activity-->
 ## 📦 Featured Repositories
 
