@@ -109,16 +109,16 @@ I am currently improving my skills in the following technologies. Here's my prog
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 📝 Committed to [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder/commit/7f50bd167885b181ca336cc2dbdf68c73e86b02c)
-2. 📝 Committed to [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder/commit/7e12b05349f7287fe057227f1ae28cb5d5d02171)
-3. 📝 Committed to [Tomrm96/FeederWebApp](https://github.com/Tomrm96/FeederWebApp/commit/97c22a96818b37903ac4b8eaa56542a0e5a433a1)
-4. 🗑️ Deleted a branch `Feature/Add-Servo-Test` in [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder)
-5. ➕ Created a new branch [`Feature/Add-Servo-Test`](https://github.com/Tomrm96/Feeder/tree/Feature/Add-Servo-Test) in [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder)
+1. ⭐ Starred [thomasms/glastoselenium](https://github.com/thomasms/glastoselenium)
+2. ⭐ Starred [JackOHara/glasto-helper](https://github.com/JackOHara/glasto-helper)
+3. 📝 Committed to [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder/commit/7f50bd167885b181ca336cc2dbdf68c73e86b02c)
+4. 📝 Committed to [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder/commit/7e12b05349f7287fe057227f1ae28cb5d5d02171)
+5. 📝 Committed to [Tomrm96/FeederWebApp](https://github.com/Tomrm96/FeederWebApp/commit/97c22a96818b37903ac4b8eaa56542a0e5a433a1)
 6. 🗑️ Deleted a branch `Feature/Add-Servo-Test` in [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder)
-7. 📝 Committed to [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder/commit/da9004d8a7c939154a073a655291444c3f22549d)
-8. 🔀 Merged [PR #3](https://github.com/Tomrm96/Feeder/pull/3) in [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder)
-9. 📥 Opened [PR #3](https://github.com/Tomrm96/Feeder/pull/3) in [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder)
-10. ➕ Created a new branch [`Feature/Add-Servo-Test`](https://github.com/Tomrm96/Feeder/tree/Feature/Add-Servo-Test) in [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder)
+7. ➕ Created a new branch [`Feature/Add-Servo-Test`](https://github.com/Tomrm96/Feeder/tree/Feature/Add-Servo-Test) in [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder)
+8. 🗑️ Deleted a branch `Feature/Add-Servo-Test` in [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder)
+9. 📝 Committed to [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder/commit/da9004d8a7c939154a073a655291444c3f22549d)
+10. 🔀 Merged [PR #3](https://github.com/Tomrm96/Feeder/pull/3) in [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder)
 <!--END_SECTION:activity-->
 ## 📦 Featured Repositories
 
