@@ -126,10 +126,11 @@ I am currently improving my skills in the following technologies. Here's my prog
   <a href="https://github.com/Tomrm96/JourneyEngine">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tomrm96&repo=JourneyEngine&theme=dark" alt="JourneyEngine" />
   </a>
-  <a href="https://github.com/Tomrm96/Feeder/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tomrm96&repo=Automated Pet Feeder&theme=dark" alt="Automated Feeder" />
+  <a href="https://github.com/Tomrm96/Feeder">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tomrm96&repo=Feeder&theme=dark" alt="Automated Pet Feeder" />
   </a>
 </p>
+
 
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝Amazon was a hard cover book seller, but actually now sells more e-books than hard covers❞</i>
