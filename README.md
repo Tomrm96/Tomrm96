@@ -126,7 +126,7 @@ I am currently improving my skills in the following technologies. Here's my prog
   <a href="https://github.com/Tomrm96/JourneyEngine">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tomrm96&repo=JourneyEngine&theme=dark" alt="JourneyEngine" />
   </a>
-  <a href="https://github.com/Tomrm96/Movie-CRUD">
+  <a href="https://github.com/Tomrm96/Feeder/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tomrm96&repo=Movie-CRUD&theme=dark" alt="Movie CRUD" />
   </a>
 </p>
