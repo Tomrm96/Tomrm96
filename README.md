@@ -56,6 +56,10 @@ I am currently improving my skills in the following technologies. Here's my prog
     <a href="#"><img alt="MicroPython" src="https://img.shields.io/badge/MicroPython-2C3E50.svg?logo=micropython&logoColor=white&style=for-the-badge"></a>
     <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white&style=for-the-badge"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black&style=for-the-badge"></a>
+    <a href="#"><img alt="6502 Assembly" src="https://img.shields.io/badge/6502_Assembly-6A4E96.svg?style=for-the-badge"></a>
+    <a href="#"><img alt="MIPS Assembly" src="https://img.shields.io/badge/MIPS_Assembly-0066CC.svg?style=for-the-badge"></a>
+    <a href="#"><img alt="ARM Assembly" src="https://img.shields.io/badge/ARM_Assembly-0091BD.svg?style=for-the-badge"></a>
+</p>
 
 </p>
 
