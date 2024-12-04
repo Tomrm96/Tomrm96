@@ -118,11 +118,11 @@ I am currently improving my skills in the following technologies. Here's my prog
 3. ➕ Created a new branch [`main`](https://github.com/Tomrm96/ARMLite/tree/main) in [Tomrm96/ARMLite](https://github.com/Tomrm96/ARMLite)
 4. 🎉 Created a new repository [Tomrm96/ARMLite](https://github.com/Tomrm96/ARMLite)
 5. ⭐ Starred [open-spaced-repetition/fsrs4anki](https://github.com/open-spaced-repetition/fsrs4anki)
-6. 📝 Committed to [Tomrm96/ARMLite](https://github.com/Tomrm96/ARMLite/commit/30ad927390e5f118003585f5532be358c7ee2f3d)
-7. 📝 Committed to [Tomrm96/Tomrm96](https://github.com/Tomrm96/Tomrm96/commit/ff0b0345ae498bfbabcde0dcc68e19b6c4cee441)
-8. ➕ Created a new branch [`main`](https://github.com/Tomrm96/ARMLite/tree/main) in [Tomrm96/ARMLite](https://github.com/Tomrm96/ARMLite)
-9. 🎉 Created a new repository [Tomrm96/ARMLite](https://github.com/Tomrm96/ARMLite)
-10. ⭐ Starred [open-spaced-repetition/fsrs4anki](https://github.com/open-spaced-repetition/fsrs4anki)
+6. 📝 Committed to [Tomrm96/Tomrm96](https://github.com/Tomrm96/Tomrm96/commit/09f8c75a1089920b842940e0fc75f05366dba612)
+7. 📝 Committed to [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder/commit/a51e3bcac79f6e645d7b6d9ce6a0e7b04190dfb0)
+8. 📝 Committed to [Tomrm96/Tomrm96](https://github.com/Tomrm96/Tomrm96/commit/b3034a1465bde8d6341e66bc644b4023467f8cbb)
+9. 📝 Committed to [Tomrm96/Tomrm96](https://github.com/Tomrm96/Tomrm96/commit/e773409a6813c1a5d72f6c699e17707636ceff92)
+10. 📝 Committed to [Tomrm96/Tomrm96](https://github.com/Tomrm96/Tomrm96/commit/f0d423000d7be5fa8f90bad97d33f9bfe4a674cf)
 <!--END_SECTION:activity-->
 ## 📦 Featured Repositories
 
