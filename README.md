@@ -113,16 +113,16 @@ I am currently improving my skills in the following technologies. Here's my prog
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ➕ Created a new branch `main` in a private repo
-2. 🎉 Created a new private repository
-3. 📝 Committed to a private repo
-4. ➕ Created a new branch `main` in a private repo
-5. 🎉 Created a new private repository
-6. ⭐ Starred [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin)
-7. 📝 Committed to [Tomrm96/ARMLite](https://github.com/Tomrm96/ARMLite/commit/30ad927390e5f118003585f5532be358c7ee2f3d)
-8. 📝 Committed to [Tomrm96/Tomrm96](https://github.com/Tomrm96/Tomrm96/commit/ff0b0345ae498bfbabcde0dcc68e19b6c4cee441)
-9. ➕ Created a new branch [`main`](https://github.com/Tomrm96/ARMLite/tree/main) in [Tomrm96/ARMLite](https://github.com/Tomrm96/ARMLite)
-10. 🎉 Created a new repository [Tomrm96/ARMLite](https://github.com/Tomrm96/ARMLite)
+1. 📝 Committed to a private repo
+2. ➕ Created a new branch `main` in a private repo
+3. 🎉 Created a new private repository
+4. 📝 Committed to a private repo
+5. ➕ Created a new branch `main` in a private repo
+6. 🎉 Created a new private repository
+7. ⭐ Starred [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin)
+8. 📝 Committed to [Tomrm96/ARMLite](https://github.com/Tomrm96/ARMLite/commit/30ad927390e5f118003585f5532be358c7ee2f3d)
+9. 📝 Committed to [Tomrm96/Tomrm96](https://github.com/Tomrm96/Tomrm96/commit/ff0b0345ae498bfbabcde0dcc68e19b6c4cee441)
+10. ➕ Created a new branch [`main`](https://github.com/Tomrm96/ARMLite/tree/main) in [Tomrm96/ARMLite](https://github.com/Tomrm96/ARMLite)
 <!--END_SECTION:activity-->
 ## 📦 Featured Repositories
 
