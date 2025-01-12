@@ -115,14 +115,14 @@ I am currently improving my skills in the following technologies. Here's my prog
 <!--START_SECTION:activity-->
 1. ➕ Created a new branch `main` in a private repo
 2. 🎉 Created a new private repository
-3. ⭐ Starred [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin)
-4. 📝 Committed to [Tomrm96/ARMLite](https://github.com/Tomrm96/ARMLite/commit/30ad927390e5f118003585f5532be358c7ee2f3d)
-5. 📝 Committed to [Tomrm96/Tomrm96](https://github.com/Tomrm96/Tomrm96/commit/ff0b0345ae498bfbabcde0dcc68e19b6c4cee441)
-6. ➕ Created a new branch [`main`](https://github.com/Tomrm96/ARMLite/tree/main) in [Tomrm96/ARMLite](https://github.com/Tomrm96/ARMLite)
-7. 🎉 Created a new repository [Tomrm96/ARMLite](https://github.com/Tomrm96/ARMLite)
-8. ⭐ Starred [open-spaced-repetition/fsrs4anki](https://github.com/open-spaced-repetition/fsrs4anki)
-9. 📝 Committed to [Tomrm96/Tomrm96](https://github.com/Tomrm96/Tomrm96/commit/09f8c75a1089920b842940e0fc75f05366dba612)
-10. 📝 Committed to [Tomrm96/Feeder](https://github.com/Tomrm96/Feeder/commit/a51e3bcac79f6e645d7b6d9ce6a0e7b04190dfb0)
+3. 📝 Committed to a private repo
+4. ➕ Created a new branch `main` in a private repo
+5. 🎉 Created a new private repository
+6. ⭐ Starred [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin)
+7. 📝 Committed to [Tomrm96/ARMLite](https://github.com/Tomrm96/ARMLite/commit/30ad927390e5f118003585f5532be358c7ee2f3d)
+8. 📝 Committed to [Tomrm96/Tomrm96](https://github.com/Tomrm96/Tomrm96/commit/ff0b0345ae498bfbabcde0dcc68e19b6c4cee441)
+9. ➕ Created a new branch [`main`](https://github.com/Tomrm96/ARMLite/tree/main) in [Tomrm96/ARMLite](https://github.com/Tomrm96/ARMLite)
+10. 🎉 Created a new repository [Tomrm96/ARMLite](https://github.com/Tomrm96/ARMLite)
 <!--END_SECTION:activity-->
 ## 📦 Featured Repositories
 
