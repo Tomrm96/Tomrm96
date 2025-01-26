@@ -113,16 +113,16 @@ I am currently improving my skills in the following technologies. Here's my prog
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 📝 Committed to a private repo
-2. 📝 Committed to a private repo
+1. ⭐ Starred [gandalf15/HX711](https://github.com/gandalf15/HX711)
+2. ⭐ Starred [robert-hh/hx711](https://github.com/robert-hh/hx711)
 3. 📝 Committed to a private repo
 4. 📝 Committed to a private repo
 5. 📝 Committed to a private repo
-6. ➕ Created a new branch `main` in a private repo
-7. 🎉 Created a new private repository
-8. 📝 Committed to a private repo
-9. ➕ Created a new branch `main` in a private repo
-10. 🎉 Created a new private repository
+6. 📝 Committed to a private repo
+7. 📝 Committed to a private repo
+8. ➕ Created a new branch `main` in a private repo
+9. 🎉 Created a new private repository
+10. 📝 Committed to a private repo
 <!--END_SECTION:activity-->
 ## 📦 Featured Repositories
 
