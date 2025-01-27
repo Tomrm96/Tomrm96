@@ -113,15 +113,15 @@ I am currently improving my skills in the following technologies. Here's my prog
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ⭐ Starred [gandalf15/HX711](https://github.com/gandalf15/HX711)
-2. ⭐ Starred [robert-hh/hx711](https://github.com/robert-hh/hx711)
-3. 📝 Committed to a private repo
-4. 📝 Committed to a private repo
-5. 📝 Committed to a private repo
+1. ⭐ Starred [j00ru/windows-syscalls](https://github.com/j00ru/windows-syscalls)
+2. ➕ Created a new branch [`main`](https://github.com/Tomrm96/Practice/tree/main) in [Tomrm96/Practice](https://github.com/Tomrm96/Practice)
+3. 🎉 Created a new repository [Tomrm96/Practice](https://github.com/Tomrm96/Practice)
+4. ⭐ Starred [gandalf15/HX711](https://github.com/gandalf15/HX711)
+5. ⭐ Starred [robert-hh/hx711](https://github.com/robert-hh/hx711)
 6. 📝 Committed to a private repo
 7. 📝 Committed to a private repo
-8. ➕ Created a new branch `main` in a private repo
-9. 🎉 Created a new private repository
+8. 📝 Committed to a private repo
+9. 📝 Committed to a private repo
 10. 📝 Committed to a private repo
 <!--END_SECTION:activity-->
 ## 📦 Featured Repositories
