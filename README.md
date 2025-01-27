@@ -113,12 +113,12 @@ I am currently improving my skills in the following technologies. Here's my prog
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ⭐ Starred [j00ru/windows-syscalls](https://github.com/j00ru/windows-syscalls)
-2. ➕ Created a new branch [`main`](https://github.com/Tomrm96/Practice/tree/main) in [Tomrm96/Practice](https://github.com/Tomrm96/Practice)
-3. 🎉 Created a new repository [Tomrm96/Practice](https://github.com/Tomrm96/Practice)
-4. ⭐ Starred [gandalf15/HX711](https://github.com/gandalf15/HX711)
-5. ⭐ Starred [robert-hh/hx711](https://github.com/robert-hh/hx711)
-6. 📝 Committed to a private repo
+1. 📝 Committed to [Tomrm96/Practice](https://github.com/Tomrm96/Practice/commit/452eb9c5b7003f0d1f0aeecd2e63869c55d43f7a)
+2. ⭐ Starred [j00ru/windows-syscalls](https://github.com/j00ru/windows-syscalls)
+3. ➕ Created a new branch [`main`](https://github.com/Tomrm96/Practice/tree/main) in [Tomrm96/Practice](https://github.com/Tomrm96/Practice)
+4. 🎉 Created a new repository [Tomrm96/Practice](https://github.com/Tomrm96/Practice)
+5. ⭐ Starred [gandalf15/HX711](https://github.com/gandalf15/HX711)
+6. ⭐ Starred [robert-hh/hx711](https://github.com/robert-hh/hx711)
 7. 📝 Committed to a private repo
 8. 📝 Committed to a private repo
 9. 📝 Committed to a private repo
