@@ -137,7 +137,7 @@ I am currently improving my skills in the following technologies. Here's my prog
 
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“If people never did silly things, nothing intelligent would ever get done.”— Ludwig Wittgenstein   ❞</i>
+<i>❝“The goal is to turn data into information, and information into insight.”— Carly Fiorina❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
