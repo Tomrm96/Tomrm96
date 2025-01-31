@@ -113,15 +113,15 @@ I am currently improving my skills in the following technologies. Here's my prog
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ⭐ Starred [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)
-2. 📝 Committed to [Tomrm96/Practice](https://github.com/Tomrm96/Practice/commit/2ded7636f8ab7d0132b4ed55c3ddbec93ef68eb0)
-3. 📝 Committed to [Tomrm96/Practice](https://github.com/Tomrm96/Practice/commit/452eb9c5b7003f0d1f0aeecd2e63869c55d43f7a)
-4. ⭐ Starred [j00ru/windows-syscalls](https://github.com/j00ru/windows-syscalls)
-5. ➕ Created a new branch [`main`](https://github.com/Tomrm96/Practice/tree/main) in [Tomrm96/Practice](https://github.com/Tomrm96/Practice)
-6. 🎉 Created a new repository [Tomrm96/Practice](https://github.com/Tomrm96/Practice)
-7. ⭐ Starred [gandalf15/HX711](https://github.com/gandalf15/HX711)
-8. ⭐ Starred [robert-hh/hx711](https://github.com/robert-hh/hx711)
-9. 📝 Committed to a private repo
+1. 📝 Committed to a private repo
+2. ⭐ Starred [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)
+3. 📝 Committed to [Tomrm96/Practice](https://github.com/Tomrm96/Practice/commit/2ded7636f8ab7d0132b4ed55c3ddbec93ef68eb0)
+4. 📝 Committed to [Tomrm96/Practice](https://github.com/Tomrm96/Practice/commit/452eb9c5b7003f0d1f0aeecd2e63869c55d43f7a)
+5. ⭐ Starred [j00ru/windows-syscalls](https://github.com/j00ru/windows-syscalls)
+6. ➕ Created a new branch [`main`](https://github.com/Tomrm96/Practice/tree/main) in [Tomrm96/Practice](https://github.com/Tomrm96/Practice)
+7. 🎉 Created a new repository [Tomrm96/Practice](https://github.com/Tomrm96/Practice)
+8. ⭐ Starred [gandalf15/HX711](https://github.com/gandalf15/HX711)
+9. ⭐ Starred [robert-hh/hx711](https://github.com/robert-hh/hx711)
 10. 📝 Committed to a private repo
 <!--END_SECTION:activity-->
 ## 📦 Featured Repositories
