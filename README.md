@@ -122,7 +122,6 @@ I am currently improving my skills in the following technologies. Here's my prog
 7. ⭐ Starred [j00ru/windows-syscalls](https://github.com/j00ru/windows-syscalls)
 8. ➕ Created a new branch [`main`](https://github.com/Tomrm96/Practice/tree/main) in [Tomrm96/Practice](https://github.com/Tomrm96/Practice)
 9. 🎉 Created a new repository [Tomrm96/Practice](https://github.com/Tomrm96/Practice)
-10. ⭐ Starred [gandalf15/HX711](https://github.com/gandalf15/HX711)
 <!--END_SECTION:activity-->
 ## 📦 Featured Repositories
 
