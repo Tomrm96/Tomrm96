@@ -116,7 +116,6 @@ I am currently improving my skills in the following technologies. Here's my prog
 1. ⭐ Starred [freeplane/freeplane](https://github.com/freeplane/freeplane)
 2. ⭐ Starred [ankitects/anki](https://github.com/ankitects/anki)
 3. 📝 Committed to a private repo
-4. ⭐ Starred [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)
 <!--END_SECTION:activity-->
 ## 📦 Featured Repositories
 
