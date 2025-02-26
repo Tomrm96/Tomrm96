@@ -117,7 +117,6 @@ I am currently improving my skills in the following technologies. Here's my prog
 2. ⭐ Starred [ankitects/anki](https://github.com/ankitects/anki)
 3. 📝 Committed to a private repo
 4. ⭐ Starred [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)
-5. 📝 Committed to [Tomrm96/Practice](https://github.com/Tomrm96/Practice/commit/2ded7636f8ab7d0132b4ed55c3ddbec93ef68eb0)
 <!--END_SECTION:activity-->
 ## 📦 Featured Repositories
 
