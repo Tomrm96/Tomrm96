@@ -114,7 +114,6 @@ I am currently improving my skills in the following technologies. Here's my prog
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. ⭐ Starred [freeplane/freeplane](https://github.com/freeplane/freeplane)
-2. ⭐ Starred [ankitects/anki](https://github.com/ankitects/anki)
 <!--END_SECTION:activity-->
 ## 📦 Featured Repositories
 
