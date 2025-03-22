@@ -113,7 +113,8 @@ I am currently improving my skills in the following technologies. Here's my prog
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ⭐ Starred [freeplane/freeplane](https://github.com/freeplane/freeplane)
+1. ⭐ Starred [mortbopet/Ripes](https://github.com/mortbopet/Ripes)
+2. ⭐ Starred [freeplane/freeplane](https://github.com/freeplane/freeplane)
 <!--END_SECTION:activity-->
 ## 📦 Featured Repositories
 
