@@ -113,11 +113,12 @@ I am currently improving my skills in the following technologies. Here's my prog
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ⭐ Starred [gchq/CyberChef](https://github.com/gchq/CyberChef)
-2. ⭐ Starred [jgamblin/Mirai-Source-Code](https://github.com/jgamblin/Mirai-Source-Code)
-3. ➕ Created a new branch [`main`](https://github.com/Tomrm96/passwordGenerator/tree/main) in [Tomrm96/passwordGenerator](https://github.com/Tomrm96/passwordGenerator)
-4. 🎉 Created a new repository [Tomrm96/passwordGenerator](https://github.com/Tomrm96/passwordGenerator)
-5. ⭐ Starred [mortbopet/Ripes](https://github.com/mortbopet/Ripes)
+1. ⭐ Starred [cuckoosandbox/cuckoo](https://github.com/cuckoosandbox/cuckoo)
+2. ⭐ Starred [gchq/CyberChef](https://github.com/gchq/CyberChef)
+3. ⭐ Starred [jgamblin/Mirai-Source-Code](https://github.com/jgamblin/Mirai-Source-Code)
+4. ➕ Created a new branch [`main`](https://github.com/Tomrm96/passwordGenerator/tree/main) in [Tomrm96/passwordGenerator](https://github.com/Tomrm96/passwordGenerator)
+5. 🎉 Created a new repository [Tomrm96/passwordGenerator](https://github.com/Tomrm96/passwordGenerator)
+6. ⭐ Starred [mortbopet/Ripes](https://github.com/mortbopet/Ripes)
 <!--END_SECTION:activity-->
 ## 📦 Featured Repositories
 
