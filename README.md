@@ -122,7 +122,6 @@ I am currently improving my skills in the following technologies. Here's my prog
 7. ⭐ Starred [jgamblin/Mirai-Source-Code](https://github.com/jgamblin/Mirai-Source-Code)
 8. ➕ Created a new branch [`main`](https://github.com/Tomrm96/passwordGenerator/tree/main) in [Tomrm96/passwordGenerator](https://github.com/Tomrm96/passwordGenerator)
 9. 🎉 Created a new repository [Tomrm96/passwordGenerator](https://github.com/Tomrm96/passwordGenerator)
-10. ⭐ Starred [mortbopet/Ripes](https://github.com/mortbopet/Ripes)
 <!--END_SECTION:activity-->
 ## 📦 Featured Repositories
 
