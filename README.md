@@ -121,8 +121,6 @@ I am currently improving my skills in the following technologies. Here's my prog
 6. ⭐ Starred [cuckoosandbox/cuckoo](https://github.com/cuckoosandbox/cuckoo)
 7. ⭐ Starred [gchq/CyberChef](https://github.com/gchq/CyberChef)
 8. ⭐ Starred [jgamblin/Mirai-Source-Code](https://github.com/jgamblin/Mirai-Source-Code)
-9. ➕ Created a new branch [`main`](https://github.com/Tomrm96/passwordGenerator/tree/main) in [Tomrm96/passwordGenerator](https://github.com/Tomrm96/passwordGenerator)
-10. 🎉 Created a new repository [Tomrm96/passwordGenerator](https://github.com/Tomrm96/passwordGenerator)
 <!--END_SECTION:activity-->
 ## 📦 Featured Repositories
 
