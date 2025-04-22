@@ -113,15 +113,16 @@ I am currently improving my skills in the following technologies. Here's my prog
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ⭐ Starred [telekom-security/tpotce](https://github.com/telekom-security/tpotce)
-2. ⭐ Starred [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists)
-3. ⭐ Starred [juice-shop/juice-shop](https://github.com/juice-shop/juice-shop)
-4. ⭐ Starred [jmoon018/PacVim](https://github.com/jmoon018/PacVim)
-5. ⭐ Starred [cuckoosandbox/cuckoo](https://github.com/cuckoosandbox/cuckoo)
-6. ⭐ Starred [gchq/CyberChef](https://github.com/gchq/CyberChef)
-7. ⭐ Starred [jgamblin/Mirai-Source-Code](https://github.com/jgamblin/Mirai-Source-Code)
-8. ➕ Created a new branch [`main`](https://github.com/Tomrm96/passwordGenerator/tree/main) in [Tomrm96/passwordGenerator](https://github.com/Tomrm96/passwordGenerator)
-9. 🎉 Created a new repository [Tomrm96/passwordGenerator](https://github.com/Tomrm96/passwordGenerator)
+1. ⭐ Starred [veltman/clmystery](https://github.com/veltman/clmystery)
+2. ⭐ Starred [telekom-security/tpotce](https://github.com/telekom-security/tpotce)
+3. ⭐ Starred [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists)
+4. ⭐ Starred [juice-shop/juice-shop](https://github.com/juice-shop/juice-shop)
+5. ⭐ Starred [jmoon018/PacVim](https://github.com/jmoon018/PacVim)
+6. ⭐ Starred [cuckoosandbox/cuckoo](https://github.com/cuckoosandbox/cuckoo)
+7. ⭐ Starred [gchq/CyberChef](https://github.com/gchq/CyberChef)
+8. ⭐ Starred [jgamblin/Mirai-Source-Code](https://github.com/jgamblin/Mirai-Source-Code)
+9. ➕ Created a new branch [`main`](https://github.com/Tomrm96/passwordGenerator/tree/main) in [Tomrm96/passwordGenerator](https://github.com/Tomrm96/passwordGenerator)
+10. 🎉 Created a new repository [Tomrm96/passwordGenerator](https://github.com/Tomrm96/passwordGenerator)
 <!--END_SECTION:activity-->
 ## 📦 Featured Repositories
 
