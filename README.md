@@ -119,7 +119,6 @@ I am currently improving my skills in the following technologies. Here's my prog
 4. ⭐ Starred [juice-shop/juice-shop](https://github.com/juice-shop/juice-shop)
 5. ⭐ Starred [jmoon018/PacVim](https://github.com/jmoon018/PacVim)
 6. ⭐ Starred [cuckoosandbox/cuckoo](https://github.com/cuckoosandbox/cuckoo)
-7. ⭐ Starred [gchq/CyberChef](https://github.com/gchq/CyberChef)
 <!--END_SECTION:activity-->
 ## 📦 Featured Repositories
 
