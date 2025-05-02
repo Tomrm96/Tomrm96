@@ -117,7 +117,6 @@ I am currently improving my skills in the following technologies. Here's my prog
 2. ⭐ Starred [telekom-security/tpotce](https://github.com/telekom-security/tpotce)
 3. ⭐ Starred [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists)
 4. ⭐ Starred [juice-shop/juice-shop](https://github.com/juice-shop/juice-shop)
-5. ⭐ Starred [jmoon018/PacVim](https://github.com/jmoon018/PacVim)
 <!--END_SECTION:activity-->
 ## 📦 Featured Repositories
 
