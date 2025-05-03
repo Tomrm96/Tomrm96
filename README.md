@@ -131,7 +131,7 @@ I am currently improving my skills in the following technologies. Here's my prog
 
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Physics is the universe’s operating system.”— Steven R Garman   ❞</i>
+<i>❝“Without a systematic way to start and keep data clean, bad data will happen.”— Donato Diorio❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
