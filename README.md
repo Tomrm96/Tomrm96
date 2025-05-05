@@ -115,8 +115,6 @@ I am currently improving my skills in the following technologies. Here's my prog
 <!--START_SECTION:activity-->
 1. ⭐ Starred [veltman/clmystery](https://github.com/veltman/clmystery)
 2. ⭐ Starred [telekom-security/tpotce](https://github.com/telekom-security/tpotce)
-3. ⭐ Starred [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists)
-4. ⭐ Starred [juice-shop/juice-shop](https://github.com/juice-shop/juice-shop)
 <!--END_SECTION:activity-->
 ## 📦 Featured Repositories
 
