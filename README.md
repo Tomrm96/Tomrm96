@@ -116,13 +116,13 @@ I am currently improving my skills in the following technologies. Here's my prog
 1. 📝 Committed to a private repo
 2. 📝 Committed to a private repo
 3. 📝 Committed to a private repo
-4. ➕ Created a new branch `main` in a private repo
-5. 🎉 Created a new private repository
-6. 🎉 Created a new repository [Tomrm96/Medium-Clone](https://github.com/Tomrm96/Medium-Clone)
-7. 📝 Committed to a private repo
-8. ➕ Created a new branch `main` in a private repo
-9. 🎉 Created a new private repository
-10. ➕ Created a new branch [`master`](https://github.com/Tomrm96/laravel-crud-code-along/tree/master) in [Tomrm96/laravel-crud-code-along](https://github.com/Tomrm96/laravel-crud-code-along)
+4. 📝 Committed to a private repo
+5. ➕ Created a new branch `main` in a private repo
+6. 🎉 Created a new private repository
+7. 🎉 Created a new repository [Tomrm96/Medium-Clone](https://github.com/Tomrm96/Medium-Clone)
+8. 📝 Committed to a private repo
+9. ➕ Created a new branch `main` in a private repo
+10. 🎉 Created a new private repository
 <!--END_SECTION:activity-->
 ## 📦 Featured Repositories
 
