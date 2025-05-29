@@ -119,9 +119,9 @@ I am currently improving my skills in the following technologies. Here's my prog
 4. 📝 Committed to a private repo
 5. 📝 Committed to a private repo
 6. 📝 Committed to a private repo
-7. ➕ Created a new branch `main` in a private repo
-8. 🎉 Created a new private repository
-9. 🎉 Created a new repository [Tomrm96/Medium-Clone](https://github.com/Tomrm96/Medium-Clone)
+7. 📝 Committed to a private repo
+8. 📝 Committed to a private repo
+9. 📝 Committed to a private repo
 10. 📝 Committed to a private repo
 <!--END_SECTION:activity-->
 ## 📦 Featured Repositories
