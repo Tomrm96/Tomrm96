@@ -122,7 +122,6 @@ I am currently improving my skills in the following technologies. Here's my prog
 7. 📝 Committed to a private repo
 8. 📝 Committed to a private repo
 9. 📝 Committed to a private repo
-10. 📝 Committed to a private repo
 <!--END_SECTION:activity-->
 ## 📦 Featured Repositories
 
