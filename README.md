@@ -113,13 +113,7 @@ I am currently improving my skills in the following technologies. Here's my prog
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ⭐ Starred [microsoft/BASIC-M6502](https://github.com/microsoft/BASIC-M6502)
-2. ⭐ Starred [WerWolv/ImHex](https://github.com/WerWolv/ImHex)
-3. ⭐ Starred [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker)
-4. ⭐ Starred [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg)
-5. ⭐ Starred [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)
-6. ⭐ Starred [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
-7. ⭐ Starred [boltgolt/howdy](https://github.com/boltgolt/howdy)
+1. ⭐ Starred [ayorgo/leetcode-neetcode-anki](https://github.com/ayorgo/leetcode-neetcode-anki)
 <!--END_SECTION:activity-->
 ## 📦 Featured Repositories
 
