@@ -128,7 +128,7 @@ I am currently improving my skills in the following technologies. Here's my prog
 
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The first word spoken on the internet was “lo”. It was supposed to be “login” but the computer crashed after the first two letters.❞</i>
+<i>❝Only about 10% of the world’s currency is physical money, the rest only exists on computers.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
