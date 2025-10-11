@@ -115,7 +115,6 @@ I am currently improving my skills in the following technologies. Here's my prog
 <!--START_SECTION:activity-->
 1. ⭐ Starred [openwrt/openwrt](https://github.com/openwrt/openwrt)
 2. 🗣 Commented on issue [#13128](https://github.com/FreeCAD/FreeCAD/issues/13128) in [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD): [View Comment](https://github.com/FreeCAD/FreeCAD/issues/13128#issuecomment-3324830117)
-3. ⭐ Starred [ayorgo/leetcode-neetcode-anki](https://github.com/ayorgo/leetcode-neetcode-anki)
 <!--END_SECTION:activity-->
 ## 📦 Featured Repositories
 
