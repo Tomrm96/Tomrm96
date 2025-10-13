@@ -113,9 +113,11 @@ I am currently improving my skills in the following technologies. Here's my prog
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ⭐ Starred [readyready15728/awesome-programming-games](https://github.com/readyready15728/awesome-programming-games)
-2. ⭐ Starred [openwrt/openwrt](https://github.com/openwrt/openwrt)
-3. 🗣 Commented on issue [#13128](https://github.com/FreeCAD/FreeCAD/issues/13128) in [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD): [View Comment](https://github.com/FreeCAD/FreeCAD/issues/13128#issuecomment-3324830117)
+1. ⭐ Starred [thehappydinoa/awesome-threat-intel-rss](https://github.com/thehappydinoa/awesome-threat-intel-rss)
+2. ⭐ Starred [mrtouch93/awesome-security-feed](https://github.com/mrtouch93/awesome-security-feed)
+3. ⭐ Starred [readyready15728/awesome-programming-games](https://github.com/readyready15728/awesome-programming-games)
+4. ⭐ Starred [openwrt/openwrt](https://github.com/openwrt/openwrt)
+5. ⭐ Starred [learntocloud/linux-ctfs](https://github.com/learntocloud/linux-ctfs)
 <!--END_SECTION:activity-->
 ## 📦 Featured Repositories
 
