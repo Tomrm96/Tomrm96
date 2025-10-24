@@ -132,7 +132,7 @@ I am currently improving my skills in the following technologies. Here's my prog
 
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Computers are good at following instructions, but not at reading your mind.”— Donald Knuth   ❞</i>
+<i>❝“Your most unhappy customers are your greatest source of learning.”— Bill Gates   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
