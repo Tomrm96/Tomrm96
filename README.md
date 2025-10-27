@@ -113,11 +113,13 @@ I am currently improving my skills in the following technologies. Here's my prog
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ⭐ Starred [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love)
-2. ⭐ Starred [thehappydinoa/awesome-threat-intel-rss](https://github.com/thehappydinoa/awesome-threat-intel-rss)
-3. ⭐ Starred [mrtouch93/awesome-security-feed](https://github.com/mrtouch93/awesome-security-feed)
-4. ⭐ Starred [readyready15728/awesome-programming-games](https://github.com/readyready15728/awesome-programming-games)
-5. ⭐ Starred [openwrt/openwrt](https://github.com/openwrt/openwrt)
+1. ⭐ Starred [MISP/MISP](https://github.com/MISP/MISP)
+2. ⭐ Starred [hslatman/awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence)
+3. ⭐ Starred [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love)
+4. ⭐ Starred [thehappydinoa/awesome-threat-intel-rss](https://github.com/thehappydinoa/awesome-threat-intel-rss)
+5. ⭐ Starred [mrtouch93/awesome-security-feed](https://github.com/mrtouch93/awesome-security-feed)
+6. ⭐ Starred [readyready15728/awesome-programming-games](https://github.com/readyready15728/awesome-programming-games)
+7. ⭐ Starred [openwrt/openwrt](https://github.com/openwrt/openwrt)
 <!--END_SECTION:activity-->
 ## 📦 Featured Repositories
 
