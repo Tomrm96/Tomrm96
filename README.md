@@ -119,7 +119,6 @@ I am currently improving my skills in the following technologies. Here's my prog
 4. ⭐ Starred [thehappydinoa/awesome-threat-intel-rss](https://github.com/thehappydinoa/awesome-threat-intel-rss)
 5. ⭐ Starred [mrtouch93/awesome-security-feed](https://github.com/mrtouch93/awesome-security-feed)
 6. ⭐ Starred [readyready15728/awesome-programming-games](https://github.com/readyready15728/awesome-programming-games)
-7. ⭐ Starred [openwrt/openwrt](https://github.com/openwrt/openwrt)
 <!--END_SECTION:activity-->
 ## 📦 Featured Repositories
 
