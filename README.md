@@ -116,7 +116,6 @@ I am currently improving my skills in the following technologies. Here's my prog
 1. ⭐ Starred [connervieira/Predator](https://github.com/connervieira/Predator)
 2. ⭐ Starred [MISP/MISP](https://github.com/MISP/MISP)
 3. ⭐ Starred [hslatman/awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence)
-4. ⭐ Starred [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love)
 <!--END_SECTION:activity-->
 ## 📦 Featured Repositories
 
