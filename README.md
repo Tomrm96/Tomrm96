@@ -114,8 +114,6 @@ I am currently improving my skills in the following technologies. Here's my prog
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. ⭐ Starred [connervieira/Predator](https://github.com/connervieira/Predator)
-2. ⭐ Starred [MISP/MISP](https://github.com/MISP/MISP)
-3. ⭐ Starred [hslatman/awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence)
 <!--END_SECTION:activity-->
 ## 📦 Featured Repositories
 
